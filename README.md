@@ -1,2 +1,3 @@
-# JS-practice
-First time work in JS. Source: Jonas  Schmedtmann complete bootcamp 2020
+# JS-practice<br>
+First time work in JS.<br> 
+Reference: Jonas  Schmedtmann complete bootcamp 2020
